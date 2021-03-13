@@ -28,7 +28,7 @@ Make sure that your command prompt is in the correct folder and type in the foll
 
 [Github Repository](https://github.com/espoldi/BudgetTracker)
 
-[Live Site]()
+[Live Site](https://mysterious-ocean-46700.herokuapp.com/)
 
 ## License
 
